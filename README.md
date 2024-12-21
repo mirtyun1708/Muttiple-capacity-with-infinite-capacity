@@ -27,6 +27,10 @@ Queuing are the most frequently encountered problems in everyday life. For examp
 
 
 ## Program
+```
+Developed by:MIRTYUNJAY S
+REGISTER NO:24013065
+```
 
 ![PQM Ex5 code](https://github.com/user-attachments/assets/2e9f6772-bf0c-4ba9-8619-b5ac4b22060d)
 
